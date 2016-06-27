@@ -1,0 +1,19 @@
+#dropzone-text {
+            border: 0px;
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+        }
+
+        #dropzone {
+            text-align: center;
+            padding: 100px;
+            background-color: rgba(0,0,0,0.05);
+            color: rgba(0,0,0,0.3);
+            border: black dashed;
+            border-radius: 25px;
+        }
+
+        #dropzone:hover {
+            background-color: rgba(0,0,0,0.1);
+        }
